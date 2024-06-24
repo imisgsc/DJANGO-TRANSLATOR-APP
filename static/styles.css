@@ -20,7 +20,7 @@ body {
 }
 
 h1 {
-    color: #f4c542;
+    color: #e7ae11;
     text-align: center;
 }
 
@@ -43,12 +43,12 @@ textarea, select, input[type="submit"] {
 }
 
 input[type="submit"] {
-    background-color: #deac24;
+    background-color: #e7ae11;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 input[type="submit"]:hover {
-    background-color: #e0b63a;
+    background-color: #000000;
 }
